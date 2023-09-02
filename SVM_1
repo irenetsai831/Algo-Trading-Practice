@@ -1,3 +1,7 @@
+# Creating an trading strategy by SVM
+# Using as "2 lags of data points" features; "change%--direction" as labels
+# Using "ParameterGrid" for Optimization
+
 import pandas as pd
 import numpy as np
 import yfinance as yf
