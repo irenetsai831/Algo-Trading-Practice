@@ -1,4 +1,4 @@
-# creating an trading strategy by Logistic Regression 
+# Creating an trading strategy by Logistic Regression 
 # Using as "2 lags of data points" features; "change%--direction" as labels
 
 import pandas as pd
